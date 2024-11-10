@@ -1,0 +1,3 @@
+working mechanism
+
+a lcd screen to display the motivational quotes from an array, a speaker to play music added in the code, 2 leds of red, green color, an ultrasonic sensor to detect user nearby, and 2 push buttons to generate the required mood.. red is sad green is happy
